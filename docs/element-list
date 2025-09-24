@@ -1,6 +1,7 @@
 io.github.enxign.shed.cipher
 io.github.enxign.shed.compress
 io.github.enxign.shed.helper
+io.github.enxign.shed.menu
 io.github.enxign.shed.msg
 io.github.enxign.shed.properties
 io.github.enxign.shed.session
